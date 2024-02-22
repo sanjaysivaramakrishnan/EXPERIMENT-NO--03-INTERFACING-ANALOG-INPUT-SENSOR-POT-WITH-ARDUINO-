@@ -1,4 +1,4 @@
-
+![image](https://github.com/sanjaysivaramakrishnan/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/151629616/c35f9bfd-60c7-4b0f-8ec4-b2ac563fb9cb)![image](https://github.com/sanjaysivaramakrishnan/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/151629616/48443bec-39d9-41d8-8765-215c1ea4cf8b)
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
 
@@ -94,10 +94,13 @@ void loop()
   }
     
 } 
+![image](https://github.com/sanjaysivaramakrishnan/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/151629616/06bf5108-8cb1-4102-9d5a-64f63f5390be)
+
 
 **
 **Simulation output:** 
 **
+![Screenshot 2024-02-22 112451](https://github.com/sanjaysivaramakrishnan/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/151629616/e65298c8-b64f-4d11-8d7d-bd288fd2f0e4)
 
 
 
