@@ -63,7 +63,7 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
-"""
+ 
  int led=4;
 int sensorpot;
 void setup()
@@ -93,9 +93,7 @@ void loop()
     delay(100);
   }
     
-}
-"""
-
+} 
 
 **
 **Simulation output:** 
