@@ -68,7 +68,7 @@ CIRCUIT DIAGRAM
 
 *PROGRAM* 
  ~~~
-int led =2;
+int led =4;
 int sensorpot;
 void setup()
 {
@@ -78,7 +78,7 @@ void setup()
 
 void loop()
 {
-  sensorpot = analogRead(A2);
+  sensorpot = analogRead(A0);
  // Serial.print("data=");
   Serial.println(sensorpot);
   if(sensorpot>500)
